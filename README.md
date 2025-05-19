@@ -45,7 +45,7 @@ A consulting-style project built using structured problem solving, machine learn
 
 ## 📊 Dashboard Preview
 
-> (https://public.tableau.com/authoring/logistics-delay-prediction/LogisticsDelayInsights#1)
+> https://public.tableau.com/views/logistics-delay-prediction/LogisticsDelayInsights?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
