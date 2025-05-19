@@ -49,7 +49,7 @@ A consulting-style project built using structured problem solving, machine learn
 
 ---
 
-## 🧭 Developed Using McKinsey Forward Concepts
+## 🧭 Developed Using Concepts
 
 | Forward Skill              | Demonstrated In                          |
 |----------------------------|-------------------------------------------|
