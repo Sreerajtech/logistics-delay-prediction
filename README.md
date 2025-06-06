@@ -26,9 +26,17 @@ A consulting-style project built using structured problem solving, machine learn
 
 ## 🧠 Tools & Techniques
 
-- Python: Pandas, XGBoost, SMOTE, SHAP, Seaborn
+- Python: Pandas, XGBoost, SMOTE (imbalanced-learn), SHAP, Seaborn
 - Tableau: KPI dashboard, delay driver analysis, predictive visualizations
 - PowerPoint: McKinsey-style insights presentation deck
+
+---
+
+## 🔧 Installation
+
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
